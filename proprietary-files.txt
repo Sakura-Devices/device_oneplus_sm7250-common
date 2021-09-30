@@ -108,6 +108,7 @@ vendor/etc/cne/profileSlm.xml
 vendor/etc/cne/slm.conf
 vendor/etc/init/cnd.rc
 vendor/etc/default-permissions/com.qualcomm.qti.cne.xml
+vendor/lib/vendor.qti.hardware.cacert@1.0.so
 vendor/lib64/libcne.so
 vendor/lib64/libcneapiclient.so
 vendor/lib64/libcneoplookup.so
