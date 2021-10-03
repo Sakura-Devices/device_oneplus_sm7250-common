@@ -11,4 +11,16 @@
     "branch"      : "eleven",
     "remote"      : "Sakura-Devices"
   }
+  {
+    "repository"  : "android_kernel_oneplus_sm7250",
+    "target_path" : "kernel/oneplus/sm7250",
+    "branch"      : "eleven",
+    "remote"      : "Sakura-Devices"
+  },
+  {
+    "repository"  : "crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r416183b1",
+    "target_path" : "prebuilts/clang/host/linux-x86/clang-r416183b1",
+    "branch"      : "11.0",
+    "remote"      : "github"
+  },
 ]
